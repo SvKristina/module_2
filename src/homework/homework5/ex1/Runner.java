@@ -22,5 +22,4 @@ public class Runner {
         System.out.println(thief);
         System.out.println(bank);
     }
-
 }
